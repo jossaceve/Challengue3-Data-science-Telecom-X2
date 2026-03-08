@@ -191,7 +191,21 @@ Ejecutar notebook:
 
 ```
 jupyter notebook Telecom_X_2.ipynb
+
+
 ```
+
+---
+
+# 👨‍💻 Autor
+
+Proyecto desarrollado por parte del programa **Alura ONE – Data Science LATAM**.
+
+---
+
+# 📄 Licencia
+
+Este proyecto es de usoeducativo para análisis de datos y Machine Learning.
 
 images/
    churn_distribution.png
